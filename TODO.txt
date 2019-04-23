@@ -1,0 +1,7 @@
+- Implement cells or quadtrees in order to quickly find neighbours https://www.youtube.com/watch?v=oqzkir9cais
+
+- Multithread the code based on the beginning of this article http://www.richardmeredith.net/2017/07/simple-multithreading-for-unity/
+
+- Implement field obstacles so that agents take multiple paths.
+
+- Implement physical obstacles/triggers so that designers can direct the flow.
