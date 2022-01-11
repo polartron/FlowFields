@@ -1,4 +1,4 @@
-# Convert a navmesh into a flowfield and save the planet
+# Flow Fields
 
 Here's a picture idk I'll finish this readme later.
 
